@@ -1,7 +1,7 @@
 body{
     background-color: black;
     color:whitesmoke;
-
+font-family:"Playfar Display" 
 .roboto-<uniquifier> {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
@@ -10,5 +10,7 @@ body{
   font-variation-settings:
     "wdth" 100;
 }
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap" rel="stylesheet">
 }
